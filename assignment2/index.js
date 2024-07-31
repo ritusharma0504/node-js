@@ -18,4 +18,4 @@ function add(a,...b){
 add("max",1,2,4,8,3,678)
 add("min",45,35,122)
 add("avg",2,3,5,7,48)
-add("error",67,70)
+add("other",67,70)
