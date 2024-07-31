@@ -11,7 +11,9 @@ function add(a,...b){
         console.log(avg)
     }
     else
-    {console.log("error")}
+    {
+        console.log("error")
+    }
 }
 add("max",1,2,4,8,3,678)
 add("min",45,35,122)
